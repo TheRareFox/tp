@@ -54,11 +54,21 @@
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
-        "appendix-instructions-for-manual-testing": "Appendix: Instructions for Manual Testing",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
         "user-stories": "User stories",
-        "use-cases": "Use cases"
+        "use-cases": "Use cases",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "glossary": "Glossary",
+        "appendix-planned-enhancement": "Appendix: Planned Enhancement",
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
+        "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-public-address": "Adding a Public Address",
+        "retrieving-a-public-address": "Retrieving a Public Address",
+        "editing-a-public-address": "Editing a Public Address",
+        "search-for-a-public-address": "Search for a Public Address",
+        "filter-for-contacts-by-network": "Filter for contacts by network",
+        "deleting-a-public-address": "Deleting a Public Address"
       },
       "headingKeywords": {}
     },
@@ -103,7 +113,7 @@
       "title": "User Guide",
       "headings": {
         "welcome-to-dltbook": "Welcome to DLTbook!",
-        "contents": "Contents",
+        "table-of-contents": "Table Of Contents",
         "introduction": "Introduction",
         "beginner-s-guide": "Beginner's Guide",
         "expert-s-guide": "Expert's Guide",
