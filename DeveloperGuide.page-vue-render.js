@@ -329,6 +329,6 @@ with(this){return _c('h3',{attrs:{"id":"deleting-a-public-address"}},[_v("Deleti
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Prerequisites: Persons and its relevant public addresses and labels exist in the list.")])]),_v(" "),_c('li',[_c('p',[_v("Try "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletepa 1 c/BTC l/Main wallet")]),_c('br'),_v("\nExpected: Deletes the public address of the contact at index 1 with the label \"Main wallet\".")])]),_v(" "),_c('li',[_c('p',[_v("Try "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deletepa 1 c/BTC")]),_c('br'),_v("\nExpected: Deletes all the BTC public addresses of the contact at index 1.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:43:40 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 11:44:56 GMT+8]")])])])}
 }];
   
